@@ -1,8 +1,6 @@
 ![](https://images.cooltext.com/5548660.png)
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5548660.png" width="365" height="108" alt="TECUAPA" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3915910868">Create An Image Just Like This</a>
-
 
 
 
@@ -10,7 +8,6 @@
 
 
 
-<!--
 Este perfil que visito es de un estudiante ✨ Tecuapa Gallardo Arturo ✨.
 
 
@@ -23,4 +20,3 @@ Este perfil que visito es de un estudiante ✨ Tecuapa Gallardo Arturo ✨.
 | 16:00 | Taller de sistemas operativos 	| Taller de sistemas operativos 	| Taller de sistemas operativos 	| Taller de sistemas operativos 	| Taller de sistemas operativos 	|
 | 17:00 | Programacion logica y funcional	| Programacion logica y funcional	| Programacion logica y funcional	| Programacion logica y funcional	| Programacion logica y funcional	|
 | 18:00 | Lenguajes y automatas II      	| Lenguajes y automatas II      	| Lenguajes y automatas II      	| Lenguajes y automatas II        | Lenguajes y automatas II      	|
--->
