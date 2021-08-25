@@ -1,4 +1,4 @@
-![](https://images.cooltext.com/5548660.png)
+
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5548660.png" width="365" height="108" alt="TECUAPA" /></a>
 
