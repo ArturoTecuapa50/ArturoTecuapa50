@@ -9,7 +9,11 @@
 
 
 Este perfil que visito es de un estudiante ✨ Tecuapa Gallardo Arturo ✨.
+- Actualmente soy estudiante en la carrera de Ingeneria en Sistemas Computacionales.
+- Actualemte me dedico a estudiar.
 
+Me puedes contactar por:
+-[Email] (arturo.tecuapa19@tectijuana.edu.mx)
 
 
 |HORARIO|  LUNES                          |  MARTES                         |  MIERCOLES                  	  |  JUEVES                     	  |  VIERNES                     	  |
