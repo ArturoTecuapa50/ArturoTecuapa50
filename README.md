@@ -14,7 +14,7 @@ Este perfil que visito es de un estudiante ✨ Tecuapa Gallardo Arturo ✨.
 
 Me puedes contactar por:
 
-- [Email](arturo.tecuapa19@tectijuana.edu.mx)
+- [Email] (arturo.tecuapa19@tectijuana.edu.mx)
 
 
 |HORARIO|  LUNES                          |  MARTES                         |  MIERCOLES                  	  |  JUEVES                     	  |  VIERNES                     	  |
